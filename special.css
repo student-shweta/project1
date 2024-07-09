@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.row12{
+    padding-left: 200px;
+    margin-top: 40px;
+    width: 1000px;
+}
+
+.row12 h2{
+    color: #A264A7;
+    margin-bottom: 20px;
+    font-weight: 500;
+    
+    
+}
+
+table{
+    width: 750px;
+}
+
+table td{
+    border: 1px solid black;
+    line-height: 2;
+    padding: 5px;
+    color: #818181;
+}

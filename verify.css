@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    height: 140px;
+    width: 100%;
+    font-family: sans-serif;
+    display: flex; 
+}
+
+.logo{
+    padding-left: 150px;
+    padding-top: 10px;
+}
+
+#title{
+    color: #A264A7;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+
+#sub_title{
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+#navbarNavDropdown{
+    padding-left: 440px;
+}
+
+.navbar-nav li{
+    margin-left: 30px;
+}
+
+.nav-item a:hover{
+    background-color: #A264A7;
+}
+
+
+.verification{
+    padding-left: 200px;
+    margin-top: 30px;
+    width: 1000px;
+}
+
+#ver{
+    font-size: 30px;
+    color: #A264A7;
+    font-weight: bold;
+}
+
+#num{
+    font-weight: bold;
+    color: #818181;
+}
+
+#enroll{
+    width: 300px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+.cd-6 button{
+    margin-top: 10px;
+    background-color: #5CB85C;
+    padding: 6px 12px;
+    border-radius: 3px;
+    border-color: #5CB85C;
+    color: white;
+
+}
+
+#cd-7{
+    margin-top: 10px;
+    color: #818181;
+}
+
+#cd-7 a{
+    text-decoration: none;
+    color: black;
+
+}
+#cd-7 a:hover{
+    color: #A264A7;
+}
+
+.soya{
+    display: flex;
+}
+
+.courses-offer{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.left img{
+    border: 4px solid #A264A7;
+    margin-top: 10px;
+}
+
+.left h5{
+    margin-top: 6px;
+    margin-left: 4px;
+} 
+
+.left button{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px;
+    margin-left: 40px;
+}
+
+.shweta a{
+    text-decoration: none;
+    color: black;
+}
+
+.shweta li{
+    margin-right: 30px;
+}
+
+.footer-head{
+    height: 250px;
+    width: 100%;
+    background-color: #818181;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    margin-top: 30px;
+    
+
+}
+.cd-5{
+    list-style: none;
+    width: 252px;
+}
+
+ul h5{
+    border-bottom: 2px solid white;
+    padding-bottom: 5px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+input[type=text],[type=email]{
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    
+}
+
+li button{
+    height: 40px;
+    width: 200px;
+    background-color: #A264A7;
+    color: white;
+}
+
+.align-one{
+    list-style: none;
+}
+
+.align-one li{
+    margin-bottom:20px
+}
+
+.copyright{
+    height: 55px;
+    width: 100%;
+    background-color:#000000;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-head a:hover{
+    color: #A264A7;
+}

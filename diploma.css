@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.row12{
+    padding-left: 200px;
+    margin-top: 40px;
+    width: 1000px;
+}
+
+.row12 h3{
+    color: #A264A7;
+    margin-bottom: 20px;
+    
+}
+
+.para1 li{
+    color: #818181;
+    
+}
+
+table{
+    width: 750px;
+}
+
+table th{
+    border: 1px solid black;
+    background-color: #A264A7;
+    color: white ;
+    text-align: center;
+    line-height: 2;
+    padding: 5px;
+    
+
+}
+
+table td{
+    border: 1px solid black;
+    line-height: 2;
+    padding: 5px;
+    color: #818181;
+}
+
+.para-one{
+    margin-top: 30px;
+}

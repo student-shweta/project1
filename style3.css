@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    height: 140px;
+    width: 100%;
+    font-family: sans-serif;
+    display: flex; 
+}
+
+.logo{
+    padding-left: 150px;
+    padding-top: 10px;
+}
+
+#title{
+    color: #A264A7;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+
+#sub_title{
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+#navbarNavDropdown{
+    padding-left: 440px;
+}
+
+.navbar-nav li{
+    margin-left: 30px;
+}
+
+.nav-item a:hover{
+    background-color: #A264A7;
+}
+
+.row4{
+    padding-left: 200px;
+    margin-top: 40px;
+    width: 1000px;
+}
+
+.row4 h3{
+    color: #A264A7;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.row5{
+    margin-bottom: 10px;
+}
+
+.row5 label{
+    font-weight: bold;
+    width: 50px;
+}
+
+.row5 .fname{
+    margin-left: 150px;
+    height: 30px;
+    width: 350px;
+    border-radius: 3px;
+    border: 1px solid #818181;
+    
+}
+
+
+
+
+
+.row5[input=email]{
+    display: inline-block;
+    margin-right: 30px;
+    
+    
+}
+
+.txt{
+    display: flex;
+}
+
+.col-1 label{
+    font-weight: bold;
+    width: 50px;
+}
+
+.col-2 textarea{
+    margin-left: 140px;
+    border-radius: 3px;
+    border: 1px solid #818181;
+}
+
+.row7 button{
+    background-color: orange;
+    color: black;
+    padding: 3px 10px;
+    margin-left: 330px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 3px;
+}
+
+.row9{
+    display: flex;
+}
+
+.row9 .col-3{
+    font-weight: bold;
+}
+
+.col-4 .fname{
+    height: 30px;
+    width: 350px;
+    margin-bottom: 30px;
+    margin-left: 3px;
+}
+
+    

@@ -1,0 +1,35 @@
+.soya{
+    display: flex;
+}
+
+.courses-offer{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.left img{
+    border: 4px solid #A264A7;
+    margin-top: 10px;
+}
+
+.left h5{
+    margin-top: 6px;
+    margin-left: 4px;
+} 
+
+.left button{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px;
+    margin-left: 40px;
+}
+
+.shweta a{
+    text-decoration: none;
+    color: black;
+}
+
+.shweta li{
+    margin-right: 30px;
+}

@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    height: 140px;
+    width: 100%;
+    font-family: sans-serif;
+    display: flex; 
+}
+
+.logo{
+    padding-left: 150px;
+    padding-top: 10px;
+}
+
+#title{
+    color: #A264A7;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+
+#sub_title{
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+#navbarNavDropdown{
+    padding-left: 440px;
+}
+
+.navbar-nav li{
+    margin-left: 30px;
+}
+
+.nav-item a:hover{
+    background-color: #A264A7;
+}
+
+.about{
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.about-one{
+    background-color: #A264A7;
+    color: white;
+    font-size: 21px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.content{
+    margin-top: 20px;
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    text-align: justify;
+    padding-left: 200px;
+}
+
+.read{
+    text-align: end;
+    padding-right: 200px;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+}
+
+button a{
+    color: black;
+    text-decoration:none;
+    background-color:#F8A966;
+    padding: 10px;
+}
+
+button a:hover{
+    background-color: blue;
+    color: white;
+}
+
+.course{
+    margin-top: 50px;
+    padding-left: 200px;
+    display: flex;
+}
+
+.course .course-one{
+    background-color: #A264A7;
+    padding: 20px 17px;
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.image img{
+    padding-left: 40px;
+}
+
+.thoughts{
+    padding-left: 200px;
+}
+
+.slider-one p{
+    color: #A264A7;
+}
+
+.footer-head{
+    height: 250px;
+    width: 100%;
+    background-color: #818181;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    
+
+}
+.cd-5{
+    list-style: none;
+    width: 252px;
+}
+
+ul h5{
+    border-bottom: 2px solid white;
+    padding-bottom: 5px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+input[type=text],[type=email]{
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    
+}
+
+li button{
+    height: 40px;
+    width: 200px;
+    background-color: #A264A7;
+    color: white;
+}
+
+.align-one{
+    list-style: none;
+}
+
+.align-one li{
+    margin-bottom:20px
+}
+
+.copyright{
+    height: 55px;
+    width: 100%;
+    background-color:#000000;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-head a:hover{
+    color: #A264A7;
+}
+
